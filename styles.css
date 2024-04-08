@@ -1,0 +1,16 @@
+html {
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  width: 816px;
+  height: 1056px;
+  padding: 15px 45px;
+}
